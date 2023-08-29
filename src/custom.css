@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee');
+
+* {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.shadow-dark {
+  box-shadow: 0px 0px 5px #888;
+}
+
+.shadow-dark:hover {
+  box-shadow: 0px 0px 15px #888;
+}
+
+.grid-columns-3 {
+  grid-template-columns: repeat(3, 5em);
+}
