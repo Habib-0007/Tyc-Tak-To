@@ -1,7 +1,7 @@
 let Footer = () => {
   return (
     <footer className="mx-auto flex justify-between items-center flex-row p-4 w-72">
-      <a href="#https://www.facebook.com/habibopeyemi.adebayo" class="text-blue-500 text-3xl">
+      <a href="https://www.facebook.com/habibopeyemi.adebayo" class="text-blue-500 text-3xl">
         <i class="fab fa-facebook"></i>
       </a>
       <a href="https://twitter.com/Habib__001" class="text-sky-400 text-3xl">
